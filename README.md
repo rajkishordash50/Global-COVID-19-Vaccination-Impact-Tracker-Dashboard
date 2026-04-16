@@ -75,5 +75,6 @@ Metric	Result
 
 **6 Screenshot / Demo**
 see the demo 
+https://github.com/rajkishordash50/Global-COVID-19-Vaccination-Impact-Tracker-Dashboard/blob/main/COVID%2019_DASHBOARD%20IMAGE.png
 
 
